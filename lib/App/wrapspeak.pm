@@ -45,7 +45,7 @@ wrapspeak.pl text_file_name
 
 =cut
 
-=head1  SBS
+=head1  SUBS
 
 =head2 run
 
@@ -161,6 +161,8 @@ MAIN:
 =over 4
 
 =item * Extend to espeak
+
+=back
 
 =head1 AUTHOR
 
